@@ -67,4 +67,4 @@ This portfolio consists of several key sections:
 ### Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/personal-portfolio.git
+git clone https://github.com/n00tellah/personal-portfolio.git

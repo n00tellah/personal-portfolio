@@ -116,7 +116,7 @@ function App() {
           }}
         >
  <img
-  src="/images/Estela.jpg"
+  src="/personal-portfolio/images/Estela.jpg"
   alt="author"
   style={{
     width: "300px",
@@ -291,13 +291,13 @@ function App() {
                 title: "Streaming App Research",
                 description:
                   "Analyzing Loklok's visual, auditory, and emotional impact with improvement possibilities.",
-                img: "/images/loklok-project.png",
+                img: "/personal-portfolio/images/loklok-project.png",
               },
               {
                 title: "Game Prototype",
                 description:
                   "Collaborated with a team to design a Game prototype, focusing on user experience and design.",
-                img: "/images/game.png",
+                img: "/personal-portfolio/images/game.png",
               },
               {
                 title: "Note App",
