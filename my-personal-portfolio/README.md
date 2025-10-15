@@ -1,16 +1,70 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This website showcases my background, technical skills, projects, and professional experience. It is built using **React** and designed to provide potential employers, collaborators, or anyone interested in my work a clear view of who I am and what I can do.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Purpose
 
-## React Compiler
+The purpose of this portfolio is to provide a professional yet personal platform to display my work, skills, and achievements in an accessible way. It serves as both a dynamic resume and an interactive showcase of my technical projects, giving visitors an opportunity to explore my work in more detail.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The website is designed to be **user-friendly, responsive, and simple**, reflecting both my interest and background.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Portfolio Features
+
+This portfolio consists of several key sections:
+
+### 1. Top Banner
+- Displays a professional photo and introduction.  
+- Includes a "Read bio" button linking to the Biography section.  
+- Interactive image hover effect with scaling and shadow.
+
+### 2. Biography Page
+- A personal overview of who I am, my educational background, and my interests.  
+- Details my passions, skills, and hobbies, providing a personal touch beyond technical skills.
+
+### 3. Resume Section
+- Downloadable PDF of my professional resume.  
+- Interactive hover effect on the download button.
+
+### 4. Projects Page
+- Grid showcasing technical projects with images, titles, and descriptions.  
+- Visitors can explore the work I’ve done, understand my approach, and view my coding style.
+
+### 5. Contact / Footer
+- Contact information including email and phone.  
+- Links to professional social media profiles (LinkedIn, Instagram, Facebook).  
+- Styled footer with branding and copyright.
+
+---
+
+## Technologies Used
+
+- **React** – Main JavaScript library for building the interactive UI.  
+- **Vite** – Modern build tool for fast React development.  
+- **CSS** – Styling for layout, colors, and effects.  
+- **GitHub Pages** – Hosting and deployment of the live portfolio.
+
+---
+
+## Features and Functionality
+
+- **Responsive Design:** Adapts to different screen sizes including mobile and tablet.  
+- **Sticky Navbar & Header:** Navigation bar and header hide on scroll down and appear on scroll up.  
+- **Interactive Elements:** Hover effects on images, project cards, and buttons.  
+- **Dark/Brand Colors:** Uses a dark, elegant color palette with purple accents.  
+- **Smooth Navigation:** Easy navigation through anchor links to each section.  
+
+---
+
+## Setup Instructions
+
+### Prerequisites
+- Node.js and npm (or yarn) installed.
+
+### Installation
+1. Clone this repository:
+```bash
+git clone https://github.com/your-username/personal-portfolio.git

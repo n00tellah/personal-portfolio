@@ -68,7 +68,7 @@
   width: 100%;
   top: 0px;
   left: 0px;
-  background: #000;
+  background: #c94fee;
   opacity: 0.9; }
   .main-navigation .main-navigation__ul {
     position: absolute;
@@ -127,7 +127,7 @@
   position: relative;
   display: flex;
   align-items: flex-end;
-  background-image: url("../images/top-banner-bckg.jpg");
+  background-image: url("../images/cyber2.png");
   background-position: center;
   background-size: cover; }
   .fh5co-top-banner::after {
@@ -137,7 +137,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #000;
+    background-color: #000000ab;
     opacity: 0.9; }
   .fh5co-top-banner .site-container {
     position: relative;
