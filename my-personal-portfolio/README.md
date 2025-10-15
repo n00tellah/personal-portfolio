@@ -59,12 +59,15 @@ This portfolio consists of several key sections:
 
 ---
 
-## Setup Instructions
 
-### Prerequisites
-- Node.js and npm (or yarn) installed.
+---
 
-### Installation
-1. Clone this repository:
-```bash
-git clone https://github.com/n00tellah/personal-portfolio.git
+## Live Demo
+
+You can access the live version of your portfolio once it's deployed:
+
+**GitHub Pages URL:**  
+[https://n00tellah.github.io/personal-portfolio/#bio](https://n00tellah.github.io/personal-portfolio/#bio)
+
+**Demo Recording:**  
+[https://drive.google.com/file/d/1ZFtOSiF8qSFhb7IPKg2PPBbHkemaxhcH/view?usp=sharing](https://drive.google.com/file/d/1ZFtOSiF8qSFhb7IPKg2PPBbHkemaxhcH/view?usp=sharing)
