@@ -194,7 +194,7 @@
               <p><strong>Career Goal:</strong> Aspiring Business Analyst</p><br />
 
               <p><strong>Education:</strong><br />
-                • Currently pursuing a Bachelor of Science in Information and Communications Technology (ICT)<br />
+                • Currently pursuing a Bachelor of Science in Information Systems <br />
                 • Completed Associate in Computer Technology
               </p><br />
 
